@@ -1,0 +1,138 @@
+.contents {
+   justify-content: center;
+   display: flex;
+   align-items: center;
+}
+
+
+.Rectangle15{
+
+   position: absolute;
+   width: 475px;
+   height: 40px;
+   top: 103px;
+   
+   background: rgba(250, 153, 28, 0.35);
+   }
+   
+.MergeSortText{
+   
+   position: absolute;
+   width: 500px;
+   height: 88px;
+   left: 100px;
+   top: -76px;
+   
+   font-family: Montserrat;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 48px;
+   line-height: 59px;
+   
+   color: #000000;
+}
+
+   
+.Outline {
+   margin-left: auto;
+   margin-right: auto;
+   position: absolute;
+   width: 1000px;
+   height: 400px;
+   margin-top: 550px;
+   border: 6px solid #1C768F;
+   box-sizing: border-box;
+}
+
+.BackgroundRectangle {
+   margin-top: 17.5px;
+   margin-left: auto;
+   margin-right: auto;
+   width: 950px;
+   height: 350px;
+   background: #FBF3F2;
+   text-align: center;
+   box-sizing: border-box;
+   padding: 10px;
+}
+
+.ContinueBox{
+   position: absolute;
+   bottom: 20px;
+   right: 25px;
+   width: 125px;
+  height: 40px;
+   background: #FA991C;
+   border-radius: 20px;
+   color: black;
+}
+.ContinueText{
+   text-align: center;
+   margin-top: 5px;
+   
+}
+
+.continue-link {
+   text-decoration: none;
+}
+
+
+.ExplanationText{
+
+   position: absolute;
+   width: 1134px;
+   height: 602px;
+   left: 153px;
+   top: 452px;
+
+   font-family: Montserrat;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 34px;
+   line-height: 41px;
+   display: flex;
+   align-items: center;
+   text-align: center;
+
+   color: #000000;
+}
+
+
+.ContinueBox:hover {
+   margin-left: 825px;
+   margin-top: -80px;
+   width: 125px;
+   height: 40px;
+   background: black;
+   border-radius: 20px;
+   color: #FA991C;
+   transition: all 0.2s ease-out;
+}
+
+.BackBox{
+   position: absolute;
+   bottom: 20px;
+   left: 25px;
+   width: 125px;
+   height: 40px;
+   background: #FA991C;
+   border-radius: 20px;
+   color: black;
+}
+
+.BackText{
+   text-align: center;
+   margin-top: 5px;
+   
+}
+
+.BackBox:hover {
+   margin-right: 825px;
+   margin-top: -80px;
+   width: 125px;
+   height: 40px;
+   background: black;
+   border-radius: 20px;
+   color: #FA991C;
+   transition: all 0.2s ease-out;
+}
